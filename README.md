@@ -7,3 +7,6 @@ Breast Cancer Detection by pattern extraction algorithms and svm classifier.
 * Image classification by SVM,KNN,RF,Decision Tree Models.
 
 * Note: Only 5 files are uploaded to the data directory. for downloading the dataset, please follow this link : https://www.mdpi.com/2079-8954/11/10/519
+
+
+![Results] (https://github.com/irbestpro/capsnet_hog_glcm/blob/main/CapsNet_GLCM_HOG.png)
