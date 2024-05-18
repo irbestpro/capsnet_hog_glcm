@@ -1,8 +1,3 @@
-'''These Codes Are Written By Mehdi Touyserkani
-    Email Address: Ir_Bestpro@yahoo.com
-    Website: Https://www.Ir-Bestpro.com
- '''
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
