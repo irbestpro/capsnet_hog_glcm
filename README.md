@@ -6,4 +6,4 @@ Breast Cancer Detection by pattern extraction algorithms and svm classifier.
 * Feature selection by PCA Algorithm.
 * Image classification by SVM,KNN,RF,Decision Tree Models.
 
-* Note: Only 5 files are uploaded to the data directory. for downloading the dataset, please follow this link : https://www.mdpi.com/2079-8954/11/10/519
+  Note: Only 5 files are uploaded to the data directory. For downloading the dataset, please follow this link : https://www.mdpi.com/2079-8954/11/10/519
